@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Google credentials
+credentials/gsheet_credentials.json
+
+# OS
+.DS_Store
